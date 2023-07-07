@@ -50,8 +50,7 @@ Screenshot of the resource group with all created resources
 
 You are being provided a relational schema that describes the data as it exists in PostgreSQL. In addition, you have been given a set of business requirements related to the data warehouse. You are being asked to design a star schema using fact and dimension tables.
 
-# insert screenshot of star schema
-
+<img src="screenshots/udacity_project_erd.drawio.png" title="resource_group" width="900">
 
 ### Task 3: Create the data in PostgreSQL
 
