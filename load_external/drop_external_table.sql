@@ -1,0 +1,2 @@
+DROP EXTERNAL TABLE dbo.dim_date
+GO
