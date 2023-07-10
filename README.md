@@ -90,11 +90,7 @@ Write SQL scripts to transform the data from the staging tables to the final sta
 
 Scripts are in /transform folder.
 
-Got stuck on creating the date dimension table -- did not find a way to create this using an external table on serverless. Spent 2+ hours on researching this, then the session timed out. The session time-out is really not a student-friendly approach to this. Also, if you expect students to work in serverless environment the material should be adapted to reflect this.
-
-For the dim_date I kept encountering the error "External table dim_date is not accessible because location does not exist or it is used by another process". The work in progress is stored in the dim_date.sql and dim_date2.sql scripts.
-
-
+Updated the dim_date file.
 
 
 
